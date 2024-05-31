@@ -1,0 +1,43 @@
+
+For Website Access:-
+http://localhost/Cargo-Management-System/
+
+-------------------------------------
+For Admin Access:- 
+http://localhost/Cargo-Management-System/admin
+Username: admin
+Password: admin123
+_____________________________________________
+
+-----------------------------------
+#Admin-Side
+-----------------------------------
+1) Secure Login and Logout
+    Dashboard
+    Display the summary of lists.
+2) Cargo Types Management
+    Add New Cargo Type
+    List All Cargo Types
+    Update Cargo Type
+    View Cargo Type
+    Set Prices
+    Delete Cargo Type
+3) Shipment/Transaction Management
+    Add New Transaction
+    List All Transactions
+    Update Transaction
+    View Transaction
+    List All Cargo per Transactions
+    Update Transaction's Status
+    List all transactions' tracking history.
+    Delete Transaction
+4) Manage User List (CRUD)
+5) Manage Account Details/Credentials
+6) Manage System Information
+
+-----------------------------------
+#Public-Side
+-----------------------------------
+1) Read 'Welcome' Content
+2) Read 'About Us' Content
+3) Trace Shipment
